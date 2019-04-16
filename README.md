@@ -1,4 +1,4 @@
-# Module 4 - Intermediate Lab: Ethereum Basics
+# Module 4 - Intermediate Lab: Installing Ganache
 
 ## Background
 
@@ -15,9 +15,12 @@
 | Variants |  |
 
 ## Assignment Instructions
-1. 
+1. [Install Ganache][ganache-install].
+2. After downloading and running, click `QUICKSTART`.
 
 ## Credits
 Dr. Debasis Bhattacharya  
 Mario Canul  
 Saxon Knight  
+
+[ganache-install]: https://truffleframework.com/ganache

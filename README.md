@@ -7,7 +7,7 @@ Ganache is a personal, local Ethereum blockchain which allows running tests, exe
 | Attribute | Explanation |
 | - | - |
 | Summary | We'll install Ganache now for use in future labs. |
-| Topics | Ganache, blockchains, Ethereum |
+| Topics | Ganache, blockchains, and Ethereum. |
 | Audience | CS1 or later. |
 | Difficulty | Intermediate (not really [yet?]). |
 | Strengths | Installs a personal Ethereum blockchain. |

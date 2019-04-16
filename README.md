@@ -1,7 +1,7 @@
 # Module 4 - Intermediate Lab: Installing Ganache
 
 ## Background
-Ganache is a personal, local Ethereum blockchain, which allows running tests, executing commands, inspecting state, and controlling how the chain operates.
+Ganache is a personal, local Ethereum blockchain which allows running tests, executing commands, inspecting state, and controlling how the chain operates.
 
 ## Meta Information
 | Attribute | Explanation |
@@ -12,7 +12,7 @@ Ganache is a personal, local Ethereum blockchain, which allows running tests, ex
 | Difficulty | Intermediate (not really [yet?]). |
 | Strengths | Installs a personal Ethereum blockchain. |
 | Weaknesses | Only installs a personal Ethereum blockchain. |
-| Dependencies | Internet connected computer |
+| Dependencies | Internet connected computer. |
 | Variants | There is a prior lab for installation of Truffle. |
 
 ## Assignment Instructions

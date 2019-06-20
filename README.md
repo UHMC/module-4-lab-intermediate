@@ -15,7 +15,7 @@ Ganache is a personal, local Ethereum blockchain which allows running tests, exe
 | Dependencies | Internet connected computer. |
 | Variants | There is a prior lab for installation of Truffle. |
 
-## Assignment Instructions
+## Assignment Instructions (5 Minutes)
 1. [Install Ganache][ganache-install].
 2. After downloading and running, click `QUICKSTART`.
 
